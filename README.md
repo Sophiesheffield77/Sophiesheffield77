@@ -1,7 +1,5 @@
 ## Hi, My name is Sophie Sheffield 👋
 
-<!--
-**Sophiesheffield77/Sophiesheffield77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ## 🎓 About Me
 
@@ -14,9 +12,9 @@ I look forward to learning more about computer programming through this course a
 ## 💻 What I'm Learning
 
 - Web Page Development
-- App Development
+- HTML and CSS
 - Computer Programming
-- Graphic Design
+- Adobe
 
 ## 🌱 My Goals
 
