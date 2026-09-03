@@ -3,11 +3,25 @@
 <!--
 **Sophiesheffield77/Sophiesheffield77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🎓 About Me
 
-## <p> I’m a student at Wayne State College </p>
+I'm a student at **Wayne State College**.
 
-<p> I’m currently studying Graphic Design with a minor in Web Page and App Development. </p>
-- 
-I look forward to learning more about computer programming through this course and being able to apply it to my work and to future professions!
--->
+I'm currently studying **Graphic Design** with a minor in **Web Page and App Development**.
+
+I look forward to learning more about computer programming through this course and being able to apply it to my work.
+
+## 💻 What I'm Learning
+
+- Web Page Development
+- App Development
+- Computer Programming
+- Graphic Design
+
+## 🌱 My Goals
+
+I'm excited to continue developing my programming skills and learn how I can combine **design and technology** in my future work.
+
+---
+
+✨ Thanks for visiting my profile! ✨
