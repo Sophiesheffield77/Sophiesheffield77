@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-<p> I’m a student at Wayne State College </p>
+## <p> I’m a student at Wayne State College </p>
 
 <p> I’m currently studying Graphic Design with a minor in Web Page and App Development. </p>
 - 
