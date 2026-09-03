@@ -5,8 +5,9 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m a student at Wayne State College
-- 🌱 I’m currently studying Graphic Design with a minor in Web Page and App Development
+<p> I’m a student at Wayne State College </p>
+
+<p> I’m currently studying Graphic Design with a minor in Web Page and App Development. </p>
 - 
 I look forward to learning more about computer programming through this course and being able to apply it to my work and to future professions!
 -->
